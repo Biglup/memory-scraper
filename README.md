@@ -1,2 +1,2 @@
 # memory-scraper
-A string memory scrapper for linux
+A basic string memory scrapper for linux

@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "paths": [
+    {
+      "path": "lib/src/**/*.cpp",
+      "recursive": true
+    }
+  ]
+}
